@@ -1,6 +1,6 @@
 # ⛩️ Otaku Mix
 
-Otaku Mix is a SwiftUI-powered iOS app designed for anime and manga fans who want to explore, discover, and organize their favorites with ease. Browse trending titles, search by genre, and build your personal watchlist or reading list.
+Otaku Mix is a SwiftUI-powered iOS app, built using the Jikan API, designed for anime and manga fans to explore, discover, and organize their favorites with ease. Browse trending titles, search by genre, and build your personal watchlist or reading list.
 
 **[Jikan API](https://jikan.moe/)**
 
@@ -40,4 +40,5 @@ To run this app, you'll need to have Xcode installed. Follow these steps to get 
  - Clone this repository: git clone [https://github.com/luanolimpio/otaku_mix.git](https://github.com/luanolimpio/otaku_mix.git)
  - Open the project in Xcode.
  - Build and run the app on a simulator or physical device.
+
 
